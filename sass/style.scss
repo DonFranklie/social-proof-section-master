@@ -1,0 +1,33 @@
+$primary-textcolor-card: hsl(0, 0%, 100%);
+$primary-textcolor-body: hsl(303, 10%, 53%);
+$role-color: hsl(333, 80%, 67%);
+$body-bgcolor: hsl(300, 24%, 96%);
+$card-bgcolor: hsl(300, 43%, 22%);
+
+
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;500;700&display=swap');
+
+*{
+    box-sizing: border-box;
+    font-family: 'League Spartan', sans-serif;;
+}
+
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    // background-color: $body-bgcolor;
+    background-image: url(/images/bg-pattern-top-desktop.svg), url(/images/bg-pattern-bottom-desktop.svg);
+    background-repeat: no-repeat, no-repeat;
+    background-position: 45% 60%, 90% 40% 20% 90%;
+}
+
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
