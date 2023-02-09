@@ -24,8 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
+![Alt text](design/mobile-view.jpg)
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/DonFranklie/social-proof-section-master)
