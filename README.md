@@ -1,6 +1,6 @@
 # Frontend Mentor - Social proof section solution
 
-This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA).
 
 ## Table of contents
 
@@ -16,6 +16,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ## Overview
 Social Proof Section
+
 ### The challenge
 
 Users should be able to:
@@ -28,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/DonFranklie/social-proof-section-master)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://donfranklie.github.io/social-proof-section-master/)
 
 ## My process
 
@@ -37,7 +38,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 - [SASS](https://sass-lang.com/) - CSS PREPROCESSOR
 
